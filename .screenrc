@@ -1,0 +1,16 @@
+shell -${SHELL}
+
+vbell_msg ""
+
+startup_message off
+defscrollback 4096
+#set the bottom status line on
+hardstatus on
+hardstatus alwayslastline
+hardstatus string "%w"
+
+defutf8 on
+
+bindkey "b" prev
+bindkey "f" next
+
