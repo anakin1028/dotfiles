@@ -6,11 +6,12 @@ startup_message off
 defscrollback 4096
 #set the bottom status line on
 hardstatus on
-hardstatus alwayslastline
-hardstatus string "%w"
+caption splitonly "%?%F%{= bW}%:%{= wk}%?%2n%f%07=%t%="
+hardstatus alwayslastline "%{= Wb}[%m/%d %02c] %016=%{= WK}%-w%50>%{= bW}%n %t%{-}%+w%-0< %="
 
 defutf8 on
 
+
 bindkey "b" prev
 bindkey "f" next
-
+bindkey "√" split -v
