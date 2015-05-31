@@ -1,3 +1,4 @@
+execute pathogen#infect()
 filetype plugin indent on
 syntax on
 
@@ -6,3 +7,4 @@ set shiftwidth=4
 set expandtab
 
 set hlsearch
+
