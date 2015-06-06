@@ -7,6 +7,7 @@ set shiftwidth=4
 set expandtab
 
 set hlsearch
+set nu
 
 map ∆ j
 map ˚ k
