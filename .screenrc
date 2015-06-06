@@ -4,6 +4,9 @@ vbell_msg ""
 
 startup_message off
 defscrollback 4096
+
+altscreen on
+
 #set the bottom status line on
 hardstatus on
 caption splitonly "%?%F%{= bW}%:%{= wk}%?%2n%f%07=%t%="
