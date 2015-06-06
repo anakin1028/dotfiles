@@ -8,7 +8,9 @@ set expandtab
 
 set hlsearch
 
-map OB j
-map OA k
-map b h
-map f l
+map ∆ j
+map ˚ k
+map ˙ h
+map ¬ l
+
+set wmh=0
