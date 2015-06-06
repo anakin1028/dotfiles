@@ -8,3 +8,7 @@ set expandtab
 
 set hlsearch
 
+map OB j
+map OA k
+map b h
+map f l
