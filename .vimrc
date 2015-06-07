@@ -14,4 +14,9 @@ map ˚ k
 map ˙ h
 map ¬ l
 
+noremap OA <Nop>
+noremap OB <Nop>
+noremap OC <Nop>
+noremap OD <Nop>
+
 set wmh=0
