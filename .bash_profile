@@ -5,7 +5,7 @@ export CLICOLOR=1
 ##
 
 # MacPorts Installer addition on 2015-05-16_at_00:08:47: adding an appropriate PATH variable for use with MacPorts.
-export PATH="/Users/anakin1028/devtools/autotools-bin/bin:/opt/local/bin:/opt/local/sbin:$PATH"
+export PATH="/opt/local/sbin:$PATH"
 # Finished adapting your PATH environment variable for use with MacPorts.
 
 export PYLINTRC=/Users/anakin1028/pylintrc
