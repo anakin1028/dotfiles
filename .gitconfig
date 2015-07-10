@@ -1,0 +1,8 @@
+[user]
+	name = anakin1028
+    email = anakin1028@gmail.com
+[alias]
+    co = checkout
+    ci = commit 
+    st = status
+    br = branch
