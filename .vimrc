@@ -1,3 +1,4 @@
+
 execute pathogen#infect()
 filetype plugin indent on
 syntax on
@@ -10,10 +11,6 @@ autocmd FileType make setlocal noexpandtab
 set hlsearch
 set nu
 
-map ∆ j
-map ˚ k
-map ˙ h
-map ¬ l
 
 noremap OA <Nop>
 noremap OB <Nop>
